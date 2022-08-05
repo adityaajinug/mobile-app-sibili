@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/bimbinganFragment"
+        android:name="com.adit.sibilidosen.fragment.BimbinganFragment"
+        android:label="fragment_bimbingan"
+        tools:layout="@layout/fragment_bimbingan" />
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.adit.sibilidosen.fragment.MenuFragment"
+        android:label="fragment_menu"
+        tools:layout="@layout/fragment_menu" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.adit.sibilidosen.fragment.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/mahasiswaFragment"
+        android:name="com.adit.sibilidosen.fragment.MahasiswaFragment"
+        android:label="fragment_mahasiswa"
+        tools:layout="@layout/fragment_mahasiswa" />
+</navigation>

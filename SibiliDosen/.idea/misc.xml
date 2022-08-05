@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable-v24/home.xml" value="0.105" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable-v24/menu.xml" value="0.12" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable-v24/password_icon.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable-v24/tab_background.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/arrow_right.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/btn_arrow_back.xml" value="0.105" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/btn_bimbingan_hijau.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/confirm.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/file_abu.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/menu.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/menu_bottom.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/notifikasi.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/panduan.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/pending.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/drawable/proposal_icon.xml" value="0.1825" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/font/montserrat_alternates_bold.xml" value="0.28020833333333334" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout-w936dp/file_abu.xml" value="0.17793715846994534" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout-w936dp/item_bab.xml" value="0.2" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/activity_detail_bab.xml" value="0.23596014492753623" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/activity_laporan_satu.xml" value="0.2" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/activity_login.xml" value="0.23596014492753623" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/fragment_activity.xml" value="0.23596014492753623" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/fragment_bimbingan.xml" value="0.23596014492753623" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/fragment_kki.xml" value="0.23596014492753623" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/fragment_mahasiswa.xml" value="0.23596014492753623" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/fragment_menu.xml" value="0.23596014492753623" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/item_bab.xml" value="0.23596014492753623" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/item_bimbingan.xml" value="0.8" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/layout/item_mahasiswa.xml" value="0.264" />
+        <entry key="..\:/ADIT/android/SibiliDosen/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
